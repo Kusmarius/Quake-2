@@ -1,4 +1,4 @@
-
+# hook
 CFLAGS = -Wall -c -g -DNO_PRIVATE
 LDFLAGS = -sectcreate __ICON __header rhapsody/QuakeWorld.iconheader -segprot __ICON r r -sectcreate __ICON app rhapsody/QuakeWorld.tiff -framework AppKit -framework Foundation
 ODIR = rhapsody/output
