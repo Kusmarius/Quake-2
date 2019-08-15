@@ -5,7 +5,7 @@ Quake2 3.17 Upgrade
 This upgrade addresses several features, including security, playability, and
 enhancements.
 
-Changes for 3.17
+Changes for 3.17 fdefsdf
 ----------------
 
 - Fixed possible NAN resulting from handing zero to second arg of atan2
