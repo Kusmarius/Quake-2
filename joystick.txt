@@ -1,3 +1,4 @@
+Edit
 Title: Description of Windows 95 Quake 2 support for DirectInput devices such as:
 	standard joysticks
 	FPgaming Assassin 3D		www.fpgaming.com
